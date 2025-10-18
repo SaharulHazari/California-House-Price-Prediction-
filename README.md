@@ -1,1 +1,1 @@
-# California-House-Price-Prediction-Ths project includes large files that exceed GitHub's storage limit. These files are available on Google Drive for easy access.Link-https://drive.google.com/drive/folders/1WLtg73XhiYin9Zg1Sb8p8xLKQklYHPu-?usp=drive_link
+# California-House-Price-Prediction-This project includes large files that exceed GitHub's storage limit. These files are available on Google Drive for easy access.Link-https://drive.google.com/drive/folders/1WLtg73XhiYin9Zg1Sb8p8xLKQklYHPu-?usp=drive_link
